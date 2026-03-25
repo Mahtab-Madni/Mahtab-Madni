@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | MERN Stack | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahtabmadni&label=Profile%20views&color=0e75b6&style=flat" alt="mahtabmadni" />
+  <img src="https://komarev.com/ghpvc/?username=Mahtab-Madni&label=Profile%20views&color=0e75b6&style=flat" alt="mahtabmadni" />
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ I'm actively seeking **Backend Developer Internship** opportunities where I can:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahtabmadni&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahtab-Madni&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
