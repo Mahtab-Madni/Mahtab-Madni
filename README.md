@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Mahtab Madni</h1>
 <h3 align="center">Backend Developer | MERN Stack | AI/ML Enthusiast </h3>
 
@@ -120,17 +124,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahtab-Madni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahtab-Madni&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Madni&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Contributions
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mahtab-Madni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
