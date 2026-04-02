@@ -114,9 +114,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="mongodb logo"  />
-  <img width="12" />
 </div>
 ---
 
