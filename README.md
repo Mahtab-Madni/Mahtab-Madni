@@ -192,7 +192,7 @@ const mahtab = {
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ysj6hbibscsxxjcybygwa6gnjq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ysj6hbibscsxxjcybygwa6gnjq&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ysj6hbibscsxxjcybygwa6gnjq&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
