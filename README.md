@@ -64,6 +64,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" height="50" alt="expressjs logo"  />
 </div>
 
 ### Programming Languages
