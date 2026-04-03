@@ -132,7 +132,7 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahtab-Madni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
