@@ -9,18 +9,30 @@
   <img src="https://komarev.com/ghpvc/?username=Mahtab-Madni&label=Profile%20views&color=0e75b6&style=flat" alt="mahtabmadni" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mahtabmadni-391364327" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/itz_mahtab25?igsh=ZmZvMmswcHEzcGU%3D">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mahtabjmi2005@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/mahtabmadni-391364327" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.instagram.com/itz_mahtab25?igsh=ZmZvMmswcHEzcGU%3D" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:mahtabjmi2005@gmail.com">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 ---
 
