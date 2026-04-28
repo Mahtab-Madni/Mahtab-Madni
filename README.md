@@ -59,85 +59,85 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" height="50" alt="expressjs logo"  />
+  <img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" height="50" alt="jwt logo"  />
 </div>
 
 ### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="expressjs logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="expressjs logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="expressjs logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
 </div>
 
 ### AI/ML & Data Science
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="expressjs logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B_PQ21OlCyfmkdrzugM7Jacza49IJ3whYA&s" height="50" alt="pandas logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B_PQ21OlCyfmkdrzugM7Jacza49IJ3whYA&s" height="50" alt="seaborn logo"  />
 </div>
 
 ### Devops
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="expressjs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
 </div>
 
 ### Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="expressjs logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 ---
 
