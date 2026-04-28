@@ -65,6 +65,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="graphql logo"  />
