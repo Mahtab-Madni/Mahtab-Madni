@@ -191,8 +191,8 @@ I'm actively seeking **Backend Developer Internship** opportunities where I can:
 const mahtab = {
     code: ["JavaScript", "TypeScript", "Java", "Python", "C++"],
     technologies: {
-        backEnd: ["Node.js", "Express.js", "MongoDB", "GraphQL"],
-        frontEnd: ["React", "HTML", "CSS", "TailwindCSS"],
+        backEnd: ["Node.js", "Express.js", "MongoDB", "GraphQL","Supabase"],
+        frontEnd: ["React","Next JS" "HTML", "CSS", "TailwindCSS"],
         aiMl: ["TensorFlow", "PyTorch", "Flask", "Scikit-learn"],
         tools: ["Git", "Postman", "VS Code", "Linux"]
     },
