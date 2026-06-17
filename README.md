@@ -166,16 +166,6 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 
 ---
 
-## 🔥 Current Projects & Focus
-
-- 🤖 **Multi-Document Abstractive Summarization** - Fine-tuning 10+ state-of-the-art models (PRIMERA, LongT5, Flan-T5, LLaMA-2, Mistral)
-- 🌐 **Building scalable MERN stack applications** with focus on backend architecture
-- 🔧 **Exploring microservices, Docker, and cloud deployment** (AWS)
-- 🧠 **Integrating AI/ML models with backend APIs** using Flask and Node.js
-- 📚 **Contributing to open-source projects** in SWOC Season 6 & GSSOC'25
-
----
-
 ## 🌟 What I'm Looking For
 
 I'm actively seeking **Backend Developer Internship** opportunities where I can:
