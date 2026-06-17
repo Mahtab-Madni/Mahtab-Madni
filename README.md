@@ -38,14 +38,19 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Electronics and Communication Engineering** at Jamia Millia Islamia (Class of 2028)
-- 💼 **Machine Learning Research Intern** at Suvidha Foundation
-- 🔭 Currently working on **multi-document abstractive summarization** using state-of-the-art models
-- 🌱 Learning **Microservices Architecture, Docker, AWS, and Advanced Backend Systems**
-- 🎯 **Actively seeking Backend Developer Internship opportunities**
-- 💡 Passionate about building **scalable APIs, robust backend systems, and AI-powered applications**
-- 🤝 Open Source Contributor at **SWOC Season 6** & **GSSOC'25**
-- 📫 Reach me at **mahtabjmi2005@gmail.com**
+I’m Mahtab Madni, a pre-final year Electronics and Communication Engineering student at Jamia Millia Islamia. Alongside my academic journey, I’ve been actively building projects that merge engineering with software development, focusing on backend systems, full‑stack applications, and AI‑powered tools.
+
+My technical journey started with web development, where I explored Node.js, Express.js, React, and Next.js to design scalable applications. Over time, I expanded into backend engineering, working with REST APIs, databases like MongoDB and PostgreSQL, and experimenting with microservices, Docker, and cloud platforms such as AWS.
+
+Some of my most impactful projects include JamiaHub, a student‑centric platform that connects peers through resources and communities, and Conduit, a VS Code extension that integrates AI models like OpenAI  to assist developers with smarter code suggestions. I also built SmartAttendAI, a Python‑based automation tool that streamlines attendance management, which was showcased at HackJMI. These projects reflect my interest in blending AI with practical solutions that improve everyday workflows.
+
+Beyond projects, I’ve contributed to open‑source initiatives like SWOC Season 6 and GSSOC’25, collaborating with developers worldwide and learning from diverse coding practices. I believe open‑source is one of the best ways to grow as a developer while giving back to the community.
+
+I’ve also gained valuable experience working with Suvidha Foundation as a Machine Learning Intern, where I focused on multi‑document abstractive summarization using advanced AI models. This role helped me strengthen my understanding of applied machine learning and gave me exposure to real‑world research challenges.
+
+Right now, I’m actively seeking backend, frontend, and full‑stack developer internships where I can apply my skills in real‑world environments, learn from experienced teams, and continue building systems that scale.
+
+If you’d like to connect, collaborate, or discuss opportunities, feel free to reach me at mahtabjmi2005@gmail.com.
 
 ---
 
@@ -66,6 +71,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
