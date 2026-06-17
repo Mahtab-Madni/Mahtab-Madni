@@ -42,11 +42,11 @@ I’m Mahtab Madni, a pre-final year Electronics and Communication Engineering s
 
 My technical journey started with web development, where I explored Node.js, Express.js, React, and Next.js to design scalable applications. Over time, I expanded into backend engineering, working with REST APIs, databases like MongoDB and PostgreSQL, and experimenting with microservices, Docker, and cloud platforms such as AWS.
 
-Some of my most impactful projects include JamiaHub, a student‑centric platform that connects peers through resources and communities, and Conduit, a VS Code extension that integrates AI models like OpenAI  to assist developers with smarter code suggestions. I also built SmartAttendAI, a Python‑based automation tool that streamlines attendance management, which was showcased at HackJMI. These projects reflect my interest in blending AI with practical solutions that improve everyday workflows.
+Some of my most impactful projects include **JamiaHub**, a student‑centric platform that connects peers through resources and communities, and **Conduit**, a VS Code extension that integrates AI models like OpenAI  to assist developers with smarter code suggestions. I also built **SmartAttendAI**, a Python‑based automation tool that streamlines attendance management, which was showcased at HackJMI. These projects reflect my interest in blending AI with practical solutions that improve everyday workflows.
 
-Beyond projects, I’ve contributed to open‑source initiatives like SWOC Season 6 and GSSOC’25, collaborating with developers worldwide and learning from diverse coding practices. I believe open‑source is one of the best ways to grow as a developer while giving back to the community.
+Beyond projects, I’ve contributed to open‑source initiatives like **SWOC Season 6** and **GSSOC’25**, collaborating with developers worldwide and learning from diverse coding practices. I believe open‑source is one of the best ways to grow as a developer while giving back to the community.
 
-I’ve also gained valuable experience working with Suvidha Foundation as a Machine Learning Intern, where I focused on multi‑document abstractive summarization using advanced AI models. This role helped me strengthen my understanding of applied machine learning and gave me exposure to real‑world research challenges.
+I’ve also gained valuable experience working with **Suvidha Foundation** as a **Machine Learning Intern**, where I focused on multi‑document abstractive summarization using advanced AI models. This role helped me strengthen my understanding of applied machine learning and gave me exposure to real‑world research challenges.
 
 Right now, I’m actively seeking backend, frontend, and full‑stack developer internships where I can apply my skills in real‑world environments, learn from experienced teams, and continue building systems that scale.
 
