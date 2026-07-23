@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m Mahtab Madni, a pre-final year Electronics and Communication Engineering student at Jamia Millia Islamia. Alongside my academic journey, I’ve been actively building projects that merge engineering with software development, focusing on backend systems, full‑stack applications, and AI‑powered tools.
 
@@ -54,7 +54,7 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Development
 <div align="left">
@@ -148,7 +148,7 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 </div>
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahtab-Madni&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="GitHub Streak" height="170"/>
@@ -158,7 +158,7 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 
 ---
 
-## 🐍 GitHub Contributions: Gone in a Bite
+## GitHub Contributions: Gone in a Bite
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Trophies"/>
@@ -166,7 +166,7 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 
 ---
 
-## 🌟 What I'm Looking For
+## What I'm Looking For
 
 I'm actively seeking **Backend Developer Internship** opportunities where I can:
 - Build and optimize RESTful APIs and GraphQL endpoints
@@ -177,7 +177,7 @@ I'm actively seeking **Backend Developer Internship** opportunities where I can:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahtab-Madni&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
@@ -185,7 +185,7 @@ I'm actively seeking **Backend Developer Internship** opportunities where I can:
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 
 ```javascript
 const mahtab = {
@@ -209,11 +209,11 @@ const mahtab = {
   </a>
 </div>
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   I'm always open to collaborating on interesting projects, discussing tech, or exploring internship opportunities!<br/>
-  Feel free to reach out! 🚀
+  Feel free to reach out! 
 </p>
 
 <p align="center">
