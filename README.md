@@ -166,40 +166,11 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 
 ---
 
-## What I'm Looking For
-
-I'm actively seeking **Backend Developer Internship** opportunities where I can:
-- Build and optimize RESTful APIs and GraphQL endpoints
-- Work on database design and scalable backend architectures
-- Collaborate with cross-functional teams on real-world projects
-- Contribute to microservices and cloud-based applications
-- Apply my AI/ML knowledge to enhance backend systems
-
----
-
 ## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahtab-Madni&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
-
----
-
-## Fun Fact
-
-```javascript
-const mahtab = {
-    code: ["JavaScript", "TypeScript", "Java", "Python", "C++"],
-    technologies: {
-        backEnd: ["Node.js", "Express.js", "MongoDB", "GraphQL","Supabase"],
-        frontEnd: ["React","Next JS" "HTML", "CSS", "TailwindCSS"],
-        aiMl: ["TensorFlow", "PyTorch", "Flask", "Scikit-learn"],
-        tools: ["Git", "Postman", "VS Code", "Linux"]
-    },
-    currentFocus: "Building scalable backend systems & AI-powered applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
 
 ---
 
